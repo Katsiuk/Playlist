@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Magic FM",
+        "file": "https://s.s3.cloudworks.ro/magicfm/streams/playlist/2022/04/12/listen.pls"
+    },
+    {
+        "title": "Radio Manele 1",
+        "file": "https://ssl.servereradio.ro/8054/stream"
+    },
+    {
+        "title": "Radio Manele 2",
+        "file": "https://ssl.servereradio.ro/8123/stream"
+    }
+]

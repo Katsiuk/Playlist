@@ -1,0 +1,6 @@
+[
+    {
+        "title": "Radio ZET",
+        "file": "https://zt03.cdn.eurozet.pl/zet-tun.mp3"
+    }
+]
