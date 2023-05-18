@@ -1,6 +1,22 @@
 [
     {
-        "title": "Fallout Radio (Diamond city)",
+        "title": "Fallout 4 Diamond city",
         "file": "http://fallout.fm:8000/falloutfm6.ogg"
+    },
+    {
+        "title": "Fallout 76 General",
+        "file": "http://fallout.fm:8000/falloutfm10.ogg"
+    },
+    {
+        "title": "Fallout 4 Classical Radio",
+        "file": "http://fallout.fm:8000/falloutfm7.ogg"
+    },
+    {
+        "title": "Fallout NV",
+        "file": "http://fallout.fm:8000/falloutfm3.ogg"
+    },
+    {
+        "title": "Fallout 3",
+        "file": "http://fallout.fm:8000/falloutfm2.ogg"
     }
 ]
