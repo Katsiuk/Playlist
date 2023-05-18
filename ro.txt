@@ -10,5 +10,13 @@
     {
         "title": "Radio Manele 2",
         "file": "https://ssl.servereradio.ro/8123/stream"
+    },
+    {
+        "title": "Chill FM",
+        "file": "https://ssl.surfmusic.de/s.php?s=http://edge126.rdsnet.ro:84/profm/chillfm.mp3"
+    },
+    {
+        "title": "Kiss FM",
+        "file": "https://live.kissfm.ro:8443/kissfm.aacp"
     }
 ]
