@@ -1,0 +1,17 @@
+{
+    "UA": {
+        "Хіт FM": "http://online.hitfm.ua/HitFM",
+        "Хіт FM UKR": "http://online.hitfm.ua/HitFM_Ukr",
+        "Хіт FM Top": "http://online.hitfm.ua/HitFM_Top"
+    },
+    "CS": {
+        "Fallout 4 Diamond city": "http://fallout.fm:8000/falloutfm6.ogg",
+        "Fallout 76 General": "http://fallout.fm:8000/falloutfm10.ogg",
+        "Fallout 4 Classical Radio": "http://fallout.fm:8000/falloutfm7.ogg",
+        "Fallout NV": "http://fallout.fm:8000/falloutfm3.ogg",
+        "Fallout 3": "http://fallout.fm:8000/falloutfm2.ogg"
+    },
+    "LST":{
+        "AnisonFM": "https://pool.anison.fm/AniSonFM(320)"
+    }
+}
