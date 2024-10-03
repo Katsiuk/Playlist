@@ -12,6 +12,11 @@
         "Fallout 3": "http://fallout.fm:8000/falloutfm2.ogg"
     },
     "LST":{
-        "AnisonFM": "https://pool.anison.fm/AniSonFM(320)"
+        "AnisonFM": "https://pool.anison.fm/AniSonFM(320)",
+        "Rainwave All: Random Relay": "http://allrelays.rainwave.cc/all.ogg",
+        "Rainwave Game: Random Relay": "http://allrelays.rainwave.cc/game.ogg",
+        "Rainwave Chiptunes: Random Relay": "http://allrelays.rainwave.cc/chiptune.ogg",
+        "Rainwave OC ReMix: Random Relay": "http://allrelays.rainwave.cc/ocremix.ogg",
+        "Rainwave Covers: Random Relay": "http://allrelays.rainwave.cc/covers.ogg"
     }
 }
