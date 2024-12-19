@@ -18,5 +18,13 @@
         "Rainwave Chiptunes: Random Relay": "http://allrelays.rainwave.cc/chiptune.ogg",
         "Rainwave OC ReMix: Random Relay": "http://allrelays.rainwave.cc/ocremix.ogg",
         "Rainwave Covers: Random Relay": "http://allrelays.rainwave.cc/covers.ogg"
+    },
+    "DJ":{
+        "Dance UK Radio": "http://51.89.148.171:8022/listen.pls?sid=1",
+        "Radio Hanzestad": "http://radiohanzestad.ddns.net:443/club038",
+        "PulseEDM DANCE": "http://pulseedm.cdnstream1.com:8124/1373_128",
+        "C-Dance RETRO": "http://198.100.145.187:18304/listen.pls?sid=1",
+        "Radioparty PL": "https://s1.radioparty.pl:8000/stream",
+        "TechnoFM": "https://stream.techno.fm/radio1-320k.mp3"
     }
 }
