@@ -20,11 +20,17 @@
         "Rainwave Covers: Random Relay": "http://allrelays.rainwave.cc/covers.ogg"
     },
     "DJ":{
+        "Techno Radio": "https://cosmo.streamerr.co/proxy/technoradioeuhq/stream",
         "Dance UK Radio": "http://51.89.148.171:8022/listen.pls?sid=1",
-        "Radio Hanzestad": "http://radiohanzestad.ddns.net:443/club038",
+        "TRANCE is Star Radio": "https://listen7.myradio24.com/tisradio",
+        "Trance-Energy Radio": "https://radio.trance-energy.org:8443/trance",
         "PulseEDM DANCE": "http://pulseedm.cdnstream1.com:8124/1373_128",
         "C-Dance RETRO": "http://198.100.145.187:18304/listen.pls?sid=1",
         "Radioparty PL": "https://s1.radioparty.pl:8000/stream",
-        "TechnoFM": "https://stream.techno.fm/radio1-320k.mp3"
+        "TechnoFM": "https://stream.techno.fm/radio1-320k.mp3",
+        "DishFM": "https://server27166.streamplus.de/stream/1/",
+        "USA Dance Radio": "https://stream1.rcast.net/66781",
+        "DJFM": "https://cast.brg.ua/djfm_main_public_mp3_hq",
+        "trancetechnique": "http://s11.ssl-stream.com:8034/;"
     }
 }
