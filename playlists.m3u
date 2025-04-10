@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1, UA - Хіт FM
+http://online.hitfm.ua/HitFM
+#EXTINF:-1, UA - Хіт FM UKR
+http://online.hitfm.ua/HitFM_Ukr
+#EXTINF:-1, UA - Хіт FM Top
+http://online.hitfm.ua/HitFM_Top
+#EXTINF:-1, UA - LUX FM
+https://icecastdc.luxnet.ua/lux
+#EXTINF:-1, UA - Nashe Radio
+https://online.nasheradio.ua/NasheRadio
+#EXTINF:-1, UA - Guliay Radio
+https://online.radioplayer.ua/GuliayRadio
+#EXTINF:-1, RO - Magic FM
+https://live.magicfm.ro:8443/magicfm.aacp
+#EXTINF:-1, RO - Manele Premium
+https://stream.adradio.ro/mp128
+#EXTINF:-1, RO - Radio Manele 1
+https://ssl.servereradio.ro/8054/stream
+#EXTINF:-1, RO - Radio Manele 2
+https://ssl.servereradio.ro/8123/stream
+#EXTINF:-1, RO - OneFM
+https://live.onefm.ro/onefm.aacp
+#EXTINF:-1, RO - Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
+#EXTINF:-1, RO - Chill FM
+https://ssl.surfmusic.de/s.php?s=http://edge126.rdsnet.ro:84/profm/chillfm.mp3
+#EXTINF:-1, RO - Kiss FM
+https://live.kissfm.ro:8443/kissfm.aacp
+#EXTINF:-1, PL - Radio ZET
+https://zt03.cdn.eurozet.pl/zet-tun.mp3
+#EXTINF:-1, PL - RMF FM
+https://rs6-krk2-cyfronet.rmfstream.pl/RMFFM48
+#EXTINF:-1, PL - RMF MAXXX
+https://rs6-krk2.rmfstream.pl/rmf_maxxx
+#EXTINF:-1, PL - Radio WSKA Warszawa
+https://waw.ic.smcdn.pl/2380-1.mp3
+#EXTINF:-1, PL - Antyradio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANTYRADIO.mp3
+#EXTINF:-1, OC - RTL 102.5
+https://streamingv2.shoutcast.com/rtl-1025_48.aac
+#EXTINF:-1, OC - Radio 105
+https://icecast.unitedradio.it/Radio105rp.aac
+#EXTINF:-1, OC - Radio Kiss Kiss
+https://kisskiss.fluidstream.eu/KKItalia.mp3
+#EXTINF:-1, CS - Fallout 4 Diamond city
+http://fallout.fm:8000/falloutfm6.ogg
+#EXTINF:-1, CS - Fallout 76 General
+http://fallout.fm:8000/falloutfm10.ogg
+#EXTINF:-1, CS - Fallout 4 Classical Radio
+http://fallout.fm:8000/falloutfm7.ogg
+#EXTINF:-1, CS - Fallout NV
+http://fallout.fm:8000/falloutfm3.ogg
+#EXTINF:-1, CS - Fallout 3
+http://fallout.fm:8000/falloutfm2.ogg
+#EXTINF:-1, CS - Rainwave All
+http://allrelays.rainwave.cc/all.ogg
+#EXTINF:-1, CS - Rainwave Game
+http://allrelays.rainwave.cc/game.ogg
+#EXTINF:-1, CS - Rainwave Chiptunes
+http://allrelays.rainwave.cc/chiptune.ogg
+#EXTINF:-1, CS - Rainwave OC ReMix
+http://allrelays.rainwave.cc/ocremix.ogg
+#EXTINF:-1, CS - Rainwave Covers
+http://allrelays.rainwave.cc/covers.ogg
+#EXTINF:-1, CS - AnisonFM
+https://pool.anison.fm/AniSonFM(320)
