@@ -1,0 +1,35 @@
+{
+     "UA": {
+         "Хіт FM": "http://online.hitfm.ua/HitFM",
+         "Хіт FM UKR": "http://online.hitfm.ua/HitFM_Ukr",
+         "Хіт FM Top": "http://online.hitfm.ua/HitFM_Top"
+     },
+     "CS": {
+         "Fallout 4 Diamond city": "http://fallout.fm:8000/falloutfm6.ogg",
+         "Fallout 76 General": "http://fallout.fm:8000/falloutfm10.ogg",
+         "Fallout 4 Classical Radio": "http://fallout.fm:8000/falloutfm7.ogg",
+         "Fallout NV": "http://fallout.fm:8000/falloutfm3.ogg",
+         "Fallout 3": "http://fallout.fm:8000/falloutfm2.ogg"
+     },
+     "LST":{
+         "AnisonFM": "https://pool.anison.fm/AniSonFM(320)",
+         "Rainwave All: Random Relay": "http://allrelays.rainwave.cc/all.ogg",
+         "Rainwave Game: Random Relay": "http://allrelays.rainwave.cc/game.ogg",
+         "Rainwave Chiptunes: Random Relay": "http://allrelays.rainwave.cc/chiptune.ogg",
+         "Rainwave OC ReMix: Random Relay": "http://allrelays.rainwave.cc/ocremix.ogg",
+         "Rainwave Covers: Random Relay": "http://allrelays.rainwave.cc/covers.ogg"
+     },
+     "DJ":{
+         "Techno Radio": "https://cosmo.streamerr.co/proxy/technoradioeuhq/stream",
+         "Dance UK Radio": "http://51.89.148.171:8022/listen.pls?sid=1",
+         "TRANCE is Star Radio": "https://listen7.myradio24.com/tisradio",
+         "Trance-Energy Radio": "https://radio.trance-energy.org:8443/trance",
+         "PulseEDM DANCE": "http://pulseedm.cdnstream1.com:8124/1373_128",
+         "C-Dance RETRO": "http://198.100.145.187:18304/listen.pls?sid=1",
+         "Radioparty PL": "https://s1.radioparty.pl:8000/stream",
+         "TechnoFM": "https://stream.techno.fm/radio1-320k.mp3",
+         "DishFM": "https://server27166.streamplus.de/stream/1/",
+         "USA Dance Radio": "https://stream1.rcast.net/66781",
+         "DJFM": "https://cast.brg.ua/djfm_main_public_mp3_hq"
+     }
+ }
