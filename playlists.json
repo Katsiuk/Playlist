@@ -1,18 +1,29 @@
 {
      "UA": {
-         "Хіт FM": "http://online.hitfm.ua/HitFM",
-         "Хіт FM UKR": "http://online.hitfm.ua/HitFM_Ukr",
-         "Хіт FM Top": "http://online.hitfm.ua/HitFM_Top"
+        "Хіт FM": "http://online.hitfm.ua/HitFM",
+        "Хіт FM UKR": "http://online.hitfm.ua/HitFM_Ukr",
+        "Хіт FM Top": "http://online.hitfm.ua/HitFM_Top",
+        "LUX FM": "https://icecastdc.luxnet.ua/lux",
+        "Nashe Radio": "https://online.nasheradio.ua/NasheRadio",
+        "Guliay Radio": "https://online.radioplayer.ua/GuliayRadio"
+    },
+     "OC": {
+         "Radio ZET": "https://zt03.cdn.eurozet.pl/zet-tun.mp3",
+         "RMF FM": "https://rs6-krk2-cyfronet.rmfstream.pl/RMFFM48",
+         "RMF MAXXX": "https://rs6-krk2.rmfstream.pl/rmf_maxxx",
+         "Radio WSKA Warszawa": "https://waw.ic.smcdn.pl/2380-1.mp3",
+         "Antyradio": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANTYRADIO.mp3",
+         "RTL 102.5": "https://streamingv2.shoutcast.com/rtl-1025_48.aac",
+         "Radio 105": "https://icecast.unitedradio.it/Radio105rp.aac",
+         "Radio Kiss Kiss": "https://kisskiss.fluidstream.eu/KKItalia.mp3"
      },
-     "CS": {
+     "LST":{
+         "AnisonFM": "https://pool.anison.fm/AniSonFM(320)",
          "Fallout 4 Diamond city": "http://fallout.fm:8000/falloutfm6.ogg",
          "Fallout 76 General": "http://fallout.fm:8000/falloutfm10.ogg",
          "Fallout 4 Classical Radio": "http://fallout.fm:8000/falloutfm7.ogg",
          "Fallout NV": "http://fallout.fm:8000/falloutfm3.ogg",
-         "Fallout 3": "http://fallout.fm:8000/falloutfm2.ogg"
-     },
-     "LST":{
-         "AnisonFM": "https://pool.anison.fm/AniSonFM(320)",
+         "Fallout 3": "http://fallout.fm:8000/falloutfm2.ogg",
          "Rainwave All: Random Relay": "http://allrelays.rainwave.cc/all.ogg",
          "Rainwave Game: Random Relay": "http://allrelays.rainwave.cc/game.ogg",
          "Rainwave Chiptunes: Random Relay": "http://allrelays.rainwave.cc/chiptune.ogg",
