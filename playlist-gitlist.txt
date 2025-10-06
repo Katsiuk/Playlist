@@ -1,4 +1,5 @@
 [
 {"title": "Remember Our Summer", "file": "https://github.com/Katsiuk/Playlist/raw/main/Remember%20Our%20Summer_v2.mp3"},
-{"title": "Dee Snider - We're Not Gonna Take It", "file": "https://github.com/Katsiuk/Playlist/raw/main/Dee%20Snider%20-%20We're%20Not%20Gonna%20Take%20It.mp3"}
+{"title": "Dee Snider - We're Not Gonna Take It", "file": "https://github.com/Katsiuk/Playlist/raw/main/Dee%20Snider%20-%20We're%20Not%20Gonna%20Take%20It.mp3"},
+{"title":"DFM","file":"https://hls-01-dfm.hostingradio.ru/igromania/96/playlist.m3u8"}
 ]
