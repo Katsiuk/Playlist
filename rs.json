@@ -1,0 +1,242 @@
+[
+  {
+    "name": "DFM Igromania",
+    "url": "https://hls-01-dfm.hostingradio.ru/igromania/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/61-igromaniq/stream"
+  },
+  {
+    "name": "DFM 101,2 FM",
+    "url": "https://hls-01-dfm.hostingradio.ru/dfm/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/dfm/stream"
+  },
+  {
+    "name": "POP GOLD 1990s",
+    "url": "https://hls-01-dfm.hostingradio.ru/popgold90/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/pop-gold-1990s/stream"
+  },
+  {
+    "name": "POP GOLD 2000s",
+    "url": "https://hls-01-dfm.hostingradio.ru/popgold00/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/pop-gold-2000s/stream"
+  },
+  {
+    "name": "POP GOLD 2010s",
+    "url": "https://hls-01-dfm.hostingradio.ru/popgold10/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/pop-gold-2010s/stream"
+  },
+  {
+    "name": "POP GOLD 2020s",
+    "url": "https://hls-01-dfm.hostingradio.ru/popgold20/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/pop-gold2020s/stream"
+  },
+  {
+    "name": "DANCE GOLD 1990s",
+    "url": "https://hls-01-dfm.hostingradio.ru/dancegold90/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/dance-gold-1990s/stream"
+  },
+  {
+    "name": "DANCE GOLD 2000s",
+    "url": "https://hls-01-dfm.hostingradio.ru/dancegold00/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/dance-gold-2000s/stream"
+  },
+  {
+    "name": "DANCE GOLD 2010s",
+    "url": "https://hls-01-dfm.hostingradio.ru/dancegold10/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/dance-gold-2010s"
+  },
+  {
+    "name": "DANCE GOLD 2020s",
+    "url": "https://hls-01-dfm.hostingradio.ru/dancegold20/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/dance-gold-2020s/stream"
+  },
+  {
+    "name": "VOCAL TRANCE",
+    "url": "https://hls-01-dfm.hostingradio.ru/trance/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/trance/stream"
+  },
+  {
+    "name": "NEW GLOBAL DANCE",
+    "url": "https://hls-01-dfm.hostingradio.ru/globaldance/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/62-new-global-dance/stream"
+  },
+  {
+    "name": "POP DANCE",
+    "url": "https://hls-01-dfm.hostingradio.ru/popdance/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/popdance/stream"
+  },
+  {
+    "name": "CLUB",
+    "url": "https://hls-01-dfm.hostingradio.ru/dfmclub/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/club/stream"
+  },
+  {
+    "name": "HANDS UP",
+    "url": "https://hls-01-dfm.hostingradio.ru/handsup/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/hands-up/stream"
+  },
+  {
+    "name": "BASS HOUSE",
+    "url": "https://hls-01-dfm.hostingradio.ru/basshouse/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/basshouse/stream"
+  },
+  {
+    "name": "TECH HOUSE",
+    "url": "https://hls-01-dfm.hostingradio.ru/techhouse/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/techhouse/stream"
+  },
+  {
+    "name": "REMAKE",
+    "url": "https://hls-01-dfm.hostingradio.ru/remake/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/techhouse/stream"
+  },
+  {
+    "name": "K-POP",
+    "url": "https://hls-01-dfm.hostingradio.ru/kpop/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/k-pop/stream"
+  },
+  {
+    "name": "CHILL",
+    "url": "https://hls-01-dfm.hostingradio.ru/dfmchill/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/chill/stream"
+  },
+  {
+    "name": "Record 80‑х",
+    "url": "https://hls-01-radiorecord.hostingradio.ru/record-1980/112/playlist.m3u8",
+    "source": "https://www.radiorecord.ru/station/1980"
+  },
+  {
+    "name": "All-time hits",
+    "url": "https://hls-01-radiorecord.hostingradio.ru/record-alltimers/112/playlist.m3u8",
+    "source": "https://www.radiorecord.ru/station/khity-vsekh-vremen"
+  },
+  {
+    "name": "Legend FM - Game Radio",
+    "url": "http://play.legendfm.in:8000/live128",
+    "source": "https://legendfm.in"
+  },
+  {
+    "name": "Fallout 4 Classical Radio",
+    "url": "http://fallout.fm:8000/falloutfm7.ogg",
+    "source": "https://fallout.fm"
+  },
+  {
+    "name": "Fallout 4 Diamond city",
+    "url": "http://fallout.fm:8000/falloutfm6.ogg",
+    "source": "https://fallout.fm"
+  },
+  {
+    "name": "Fallout NV",
+    "url": "http://fallout.fm:8000/falloutfm3.ogg",
+    "source": "https://fallout.fm"
+  },
+  {
+    "name": "Fallout 3",
+    "url": "http://fallout.fm:8000/falloutfm2.ogg",
+    "source": "https://fallout.fm"
+  },
+  {
+    "name": "Addictive 50s",
+    "url": "https://quincy.torontocast.com:2945/stream",
+    "source": "https://tunein.com/radio/Addictive-50s-s166793"
+  },
+  {
+    "name": "Classic Radio UA",
+    "url": "https://online.classicradio.ua/ClassicRadio_HD",
+    "source": "https://play.tavr.media/classicradio"
+  },
+  {
+    "name": "LUX FM",
+    "url": "https://icecastdc.luxnet.ua/lux",
+    "source": "https://lux.fm/"
+  },
+  {
+    "name": "LUX FM UKR Hits",
+    "url": "https://lux.radio.tvstitch.com/ukrayinski-hiti-sd",
+    "source": "https://lux.fm/"
+  },
+  {
+    "name": "LUX FM Chill and Relax",
+    "url": "https://lux.radio.tvstitch.com/chill-sd",
+    "source": "https://lux.fm/"
+  },
+  {
+    "name": "LUX FM Modern",
+    "url": "https://lux.radio.tvstitch.com/suchasni-hiti-sd",
+    "source": "https://lux.fm/"
+  },
+  {
+    "name": "LUX FM Golden Hits",
+    "url": "https://lux.radio.tvstitch.com/zoloti-hiti-sd",
+    "source": "https://lux.fm/"
+  },
+  {
+    "name": "Radio Svizzera Classica",
+    "url": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_it/mp3/128",
+    "source": "https://www.radioswissclassic.ch"
+  },
+  {
+    "name": "Rai Radio Classica",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S53422322/bTdUFhYMnnra/icecast",
+    "source": "https://tunein.com/radio/Rai-Radio-Classica-1003-s17167"
+  },
+  {
+    "name": "La Classica",
+    "url": "https://stream.laclassica.be:18023/stream",
+    "source": "https://tunein.com/radio/La-Classica-s244379"
+  },
+  {
+    "name": "Anison FM",
+    "url": "https://pool.anison.fm/AniSonFM(320)",
+    "source": "https://anison.fm"
+  },
+  {
+    "name": "Radio Anime Nexus",
+    "url": "https://cast.animenexusla.com/radio/8000/animenexus",
+    "source": "https://tunein.com/radio/Radio-Anime-Nexus-s108601"
+  },
+  {
+    "name": "Yggdrasil Radio",
+    "url": "https://stream3.rcast.net/70702",
+    "source": "https://yggdrasilradio.com"
+  },
+  {
+    "name": "JMusicAnime Radio",
+    "url": "https://stream-175.zeno.fm/g0wsfbbaft5tv",
+    "source": "https://tunein.com/radio/JMusicAnime-Radio-s287770"
+  },
+  {
+    "name": "Aqua Manga Radio",
+    "url": "https://dj91.hostingnuclear.com/8134/stream",
+    "source": "https://tunein.com/radio/Aqua-Manga-Radio-s302867"
+  },
+  {
+    "name": "8Beats",
+    "url": "https://n07.radiojar.com/2fa4wbch308uv",
+    "source": "https://8beats.co"
+  },
+  {
+    "name": "8 BIT FM",
+    "url": "https://listen4.myradio24.com/85516",
+    "source": "https://top-radio.ru/web/8-bit-fm"
+  },
+  {
+    "name": "GamePlay - 8 bit",
+    "url": "https://c22.radioboss.fm:8144/GamePlay",
+    "source": "https://onlineradiohub.ru/radio/radio-gameplay-8-bit"
+  },
+  {
+    "name": "DFM Пионер",
+    "url": "https://hls-01-dfm.hostingradio.ru/pioneer/96/playlist.m3u8",
+    "source": "https://dfm.ru/online/59-dfm-pioneer/stream"
+  },
+  {
+    "name": "Radio SuomiPop",
+    "url": "https://stream.pcradio.ru/suomi_pop-hi",
+    "source": "https://www.radio-suomi.com"
+  },
+  {
+    "name": "Sleep Radio",
+    "url": "https://cast4.my-control-panel.com/proxy/sleeprad/stream",
+    "source": "https://www.sleepradio.co.nz"
+  }
+]
