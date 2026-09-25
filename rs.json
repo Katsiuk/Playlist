@@ -230,6 +230,16 @@
     "source": "https://dfm.ru/online/59-dfm-pioneer/stream"
   },
   {
+    "name": "NOC FM Underground Radio",
+    "url": "https://10.109.10.1/proxy/radio/noc_fm_underground",
+    "source": "https://10.109.10.1/proxy/radio/noc_fm_underground"
+  },
+  {
+    "name": "Nani-Me Station",
+    "url": "https://10.109.10.1/proxy/radio/nani-me",
+    "source": "https://10.109.10.1/proxy/radio/nani-me"
+  },
+  {
     "name": "Radio SuomiPop",
     "url": "https://stream.pcradio.ru/suomi_pop-hi",
     "source": "https://www.radio-suomi.com"
